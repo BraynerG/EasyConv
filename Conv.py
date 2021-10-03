@@ -23,7 +23,7 @@ NoKernel = np.array([[0,0,0],
 OKernel = np.array([[0,0,0],
                     [0,0,0],
                     [0,0,0]])
-
+#Change the div parameter in Conv()
 BlurKernel = np.ones((3,3))
 
 
